@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+    background-color: #EAF0F1;
+    
+}
+
+
+.form-control{
+padding:20px;
+margin: 10px;
+
+
+
+}
+
+
+
+
+.container{
+    
+    align-items: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    min-height: 70vh;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    
+
+}
+
+
+.button-submit{
+
+    margin-left: 25%;
+    background-color: #2B2B52;
+    color: white;
+    border: 2px solid black;
+    border-radius: 25px 25px 25px 25px;
+    width: 200px;
+    
+}
+
+
+
+.username{
+
+    border-radius: 30px 30px 30px 30px;
+
+padding-left: 10px;
+width: 50%;
+
+}
+
+.email{
+    width: 50%;
+    border-radius: 30px 30px 30px 30px;
+    padding-left: 10px;
+    margin-left: 5%;
+    
+}
+.password{
+    
+    border-radius: 30px 30px 30px 30px;
+    padding-left: 10px;
+}
+.password2{
+    border-radius: 30px 30px 30px 30px;
+    padding-left: 10px;
+    margin-left: 9%;
+}
+
+
+.username-label{
+    padding-right: 20px;
+
+}
+
+.username-password{
+    padding-right: 20px;
+
+}
+
+
+.form-container{
+    box-shadow: 7px 10px 10px #0A3D62;
+}
+
+.header-form{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.header-name{
+    text-align: center;
+    font-size: 40px;
+
+}
+
+
+.footer-p{
+    
+    align-items: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
